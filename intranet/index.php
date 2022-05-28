@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="fixed sidebar-light sidebar-left-sm header-dark">
+<html class="fixed sidebar-light sidebar-left-sm header-dark" lang="es">
 	<head>
 
 		<!-- Basic -->
