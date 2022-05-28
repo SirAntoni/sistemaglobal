@@ -359,14 +359,14 @@
 											</div>
 										</div>
 										<div class="col-xl-4 text-center">
-											<h2 class="card-title mt-3">Sales Goal</h2>
+											<h2 class="card-title mt-3">Metas de invitados</h2>
 											<div class="liquid-meter-wrapper liquid-meter-sm mt-3">
 												<div class="liquid-meter">
 													<meter min="0" max="100" value="35" id="meterSales"></meter>
 												</div>
 												<div class="liquid-meter-selector mt-4 pt-1" id="meterSalesSel">
-													<a href="#" data-val="35" class="active">Monthly Goal</a>
-													<a href="#" data-val="28">Annual Goal</a>
+													<a href="#" data-val="35" class="active">Mensual invitados</a>
+													<a href="#" data-val="28">Anual invitados</a>
 												</div>
 											</div>
 										</div>
