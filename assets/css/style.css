@@ -231,15 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.fixed-top {
   height: 70px;
 }
-#header .logo {
-  font-size: 30px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 0.8px;
-  font-family: "Poppins", sans-serif;
-}
+
 #header .logo a {
   color: #222222;
 }
